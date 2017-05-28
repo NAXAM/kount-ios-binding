@@ -3,13 +3,13 @@
     <metadata>
         <!-- Required elements-->
         <id>Naxam.Kount.iOS</id>
-        <version>3.1</version>
+        <version>3.2</version>
         <description>Xamarin Binding Library - Kount iOS SDK</description>
         <authors>Vu Duc Tuyen</authors>
         <owners>NAXAM CO.,LTD</owners>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <title>Naxam - Kount iOS SDK</title>
-        <releaseNotes>Kount iOS SDK v3.1</releaseNotes>
+        <releaseNotes>Kount iOS SDK v3.2</releaseNotes>
         <summary>Xamarin Binding Library - Kount iOS SDK</summary>
         <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
         <projectUrl>https://github.com/NAXAM/kount-ios-binding</projectUrl>
