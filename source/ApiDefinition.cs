@@ -3,7 +3,7 @@ using Foundation;
 using ObjCRuntime;
 using UIKit;
 
-namespace Kount
+namespace KountDataCollector
 {
 	// @interface KDataCollector : NSObject
 	[BaseType (typeof(NSObject))]

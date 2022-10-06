@@ -1,7 +1,7 @@
 ﻿using System;
 using ObjCRuntime;
 
-namespace Kount
+namespace KountDataCollector
 {
 	[Native]
 	public enum KDataCollectorErrorCode : long
