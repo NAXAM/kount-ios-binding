@@ -24,6 +24,9 @@ This library is created to be used by other binding library.
 If you want to learn how to use its APIs, please follow their guidelines [here](https://github.com/Kount/kount-ios-sdk/blob/master/README.md).
 
 ## License
+**tuyen-vuduc is not responsible for, nor does it grant any licenses to, third-party packages. Some packages may require or install dependencies which are governed by additional licenses.**
+
+Note: This component depends on KountdataCollector for iOS, which is subject to the terms of https://kount.com/solutions/
 
 KountDataCollector binding library for iOS is released under the MIT license.
 See [LICENSE](./LICENSE) for details.
