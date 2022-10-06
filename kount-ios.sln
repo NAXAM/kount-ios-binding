@@ -1,7 +1,7 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Naxam.Kount.iOS", "Naxam.Kount.iOS\Naxam.Kount.iOS.csproj", "{552FBFA1-75F9-44A6-8A2F-98CBE6FE4E5E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KountDataCollector.iOS", "KountDataCollector.iOS\KountDataCollector.iOS.csproj", "{552FBFA1-75F9-44A6-8A2F-98CBE6FE4E5E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
