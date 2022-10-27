@@ -14,7 +14,7 @@
           Condition="('$(TargetFrameworks)' == '' AND '$(TargetFramework)' == '') OR '$(IsBindingProject)' == 'true'">
     <ItemGroup>
       <_NativeReference Update="@(_NativeReference)" Condition="'%(_NativeReference._Id)' == '$(_KountDataCollectorId)'">
-        <Kind>Framework</Kind>
+        <Kind>Static</Kind>
         <SmartLink>True</SmartLink>
         <ForceLoad>True</ForceLoad>
         <LinkerFlags>-ObjC</LinkerFlags>
